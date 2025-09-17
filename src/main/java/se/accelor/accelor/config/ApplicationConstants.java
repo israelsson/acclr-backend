@@ -10,9 +10,9 @@ public class ApplicationConstants {
     public static final String API_PATH_CREATE_SETUP_PATH = "/create";
 
     // GitHub fine-grained
-    public static final String GITHUB_PAT = "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";
+    public static final String GITHUB_PAT = ""; // Add later, github will not accept a value
     // GitHub classic token
-    public static final String GITHUB_PAT_V2 = "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";
+    public static final String GITHUB_PAT_V2 = ""; // Add later, github will not accept a value
 
     // HitHub resources
     public static final String GITHUB_API_URL = "https://api.github.com";
